@@ -4,9 +4,9 @@ description: |
   Welcome to our new blog, HDS Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Polly Cai 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: UNSW Sydney
     affiliation_url: https://example.com/spacelysprokets
 date: 06-23-2022
 output:

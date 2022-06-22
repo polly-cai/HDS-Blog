@@ -1,0 +1,22 @@
+---
+title: "I love blogging"
+description: |
+  A short description of how much I love blogging.
+author:
+  - name: Polly Cai
+date: 2022-06-23
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
